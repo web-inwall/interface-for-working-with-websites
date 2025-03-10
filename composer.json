@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.5",
+        "phpseclib/phpseclib": "3.*"
+    }
+}
