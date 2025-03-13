@@ -22,7 +22,9 @@
 
 ## Демонстрация
 ![Screenshot_2](https://github.com/user-attachments/assets/76f51dbd-267b-46ed-b44b-50da34c7cd85)
+
 ![Screenshot_1](https://github.com/user-attachments/assets/6f7f473e-501c-4a9f-b379-e83113949b31)
+
 ![Screenshot_3](https://github.com/user-attachments/assets/5b58e177-688d-4177-bb36-d9fd6a0aed54)
 
 ## Установка и запуск
